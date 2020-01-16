@@ -43,6 +43,7 @@ const PostContainer = styled.div`
 const Thumbnail = styled.img`
   display: inline-block;
   max-width: 250px;
+  min-width: 250px;
   max-height: 185px;
   align-self: center;
 `
